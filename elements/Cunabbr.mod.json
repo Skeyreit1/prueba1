@@ -38,7 +38,7 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "Blocks.GRAY_BED"
+      "value": "Blocks.BLACK_BED"
     },
     "name": "cunabbr",
     "namespace": "mod"
