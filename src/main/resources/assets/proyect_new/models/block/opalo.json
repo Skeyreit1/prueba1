@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "proyect_new:blocks/a",
+    "up": "proyect_new:blocks/a",
+    "north": "proyect_new:blocks/a",
+    "east": "proyect_new:blocks/a",
+    "south": "proyect_new:blocks/a",
+    "west": "proyect_new:blocks/a",
+    "particle": "proyect_new:blocks/a"
+  }
+}

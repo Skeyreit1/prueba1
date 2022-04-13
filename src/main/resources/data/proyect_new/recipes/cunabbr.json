@@ -1,0 +1,42 @@
+{
+  "group": "cuna",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:oak_planks"
+    },
+    "1": {
+      "item": "proyect_new:opalo_1"
+    },
+    "2": {
+      "item": "minecraft:oak_planks"
+    },
+    "3": {
+      "item": "minecraft:oak_planks"
+    },
+    "4": {
+      "item": "minecraft:white_wool"
+    },
+    "5": {
+      "item": "minecraft:oak_planks"
+    },
+    "6": {
+      "item": "minecraft:oak_planks"
+    },
+    "7": {
+      "item": "minecraft:oak_planks"
+    },
+    "8": {
+      "item": "minecraft:oak_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:gray_bed",
+    "count": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:soul_campfire"
+    },
+    "title": {
+      "translate": "advancements.inicio.title"
+    },
+    "description": {
+      "translate": "advancements.inicio.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "inicio": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "item": {
+          "item": "minecraft:oak_log"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 65
+  },
+  "parent": "minecraft:story/root"
+}

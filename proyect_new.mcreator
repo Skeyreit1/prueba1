@@ -1,0 +1,78 @@
+{
+  "mod_elements": [
+    {
+      "name": "Inicio",
+      "type": "achievement",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "inicio"
+    },
+    {
+      "name": "Proyectitotab",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "proyectitotab"
+    },
+    {
+      "name": "Opalo",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "opalo"
+    },
+    {
+      "name": "Opalo1",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "opalo_1"
+    },
+    {
+      "name": "Cunabbr",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cunabbr"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "advancements.inicio.title": "Inicio",
+      "item.proyect_new.opalo_1": "Opalo 1",
+      "advancements.inicio.descr": "felicidades,a cabas de empezar la aventura",
+      "block.proyect_new.opalo": "Opalo",
+      "itemGroup.tabproyectitotab": "Proyectitotab"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "proyect_new",
+    "modName": "proyect new",
+    "version": "1.0.0",
+    "author": "miasa, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.proyectnew",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100354000
+}
