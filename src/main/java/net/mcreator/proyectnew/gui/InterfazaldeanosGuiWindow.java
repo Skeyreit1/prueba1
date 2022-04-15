@@ -114,13 +114,13 @@ public class InterfazaldeanosGuiWindow extends ContainerScreen<InterfazaldeanosG
 				InterfazaldeanosGui.handleButtonAction(entity, 3, x, y, z);
 			}
 		}));
-		this.addButton(new Button(this.guiLeft + 243, this.guiTop + 106, 61, 20, new StringTextComponent("regalar"), e -> {
+		this.addButton(new Button(this.guiLeft + 243, this.guiTop + 103, 61, 20, new StringTextComponent("regalar"), e -> {
 			if (true) {
 				ProyectNewMod.PACKET_HANDLER.sendToServer(new InterfazaldeanosGui.ButtonPressedMessage(4, x, y, z));
 				InterfazaldeanosGui.handleButtonAction(entity, 4, x, y, z);
 			}
 		}));
-		this.addButton(new Button(this.guiLeft + 243, this.guiTop + 133, 77, 20, new StringTextComponent("declararse"), e -> {
+		this.addButton(new Button(this.guiLeft + 243, this.guiTop + 129, 77, 20, new StringTextComponent("declararse"), e -> {
 			if (true) {
 				ProyectNewMod.PACKET_HANDLER.sendToServer(new InterfazaldeanosGui.ButtonPressedMessage(5, x, y, z));
 				InterfazaldeanosGui.handleButtonAction(entity, 5, x, y, z);

@@ -75,7 +75,7 @@
           "height": 20,
           "name": "regalar",
           "x": 357,
-          "y": 143
+          "y": 140
         }
       },
       {
@@ -86,7 +86,7 @@
           "height": 20,
           "name": "declararse",
           "x": 357,
-          "y": 170
+          "y": 166
         }
       },
       {
@@ -105,7 +105,7 @@
     ],
     "gridSettings": {
       "sx": 18,
-      "sy": 18,
+      "sy": 4,
       "ox": 11,
       "oy": 15,
       "snapOnGrid": true

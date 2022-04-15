@@ -1,0 +1,16 @@
+{
+  "parent": "proyect_new:custom/mesa",
+  "textures": {
+    "all": "proyect_new:blocks/maderita",
+    "particle": "proyect_new:blocks/maderita",
+    "0": "proyect_new:blocks/texture",
+    "1": "proyect_new:blocks/texture",
+    "2": "proyect_new:blocks/texture",
+    "3": "proyect_new:blocks/texture",
+    "4": "proyect_new:blocks/texture",
+    "5": "proyect_new:blocks/texture",
+    "6": "proyect_new:blocks/texture",
+    "7": "proyect_new:blocks/texture",
+    "8": "proyect_new:blocks/texture"
+  }
+}

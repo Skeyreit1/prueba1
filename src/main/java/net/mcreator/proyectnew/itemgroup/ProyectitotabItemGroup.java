@@ -6,8 +6,8 @@ import net.minecraftforge.api.distmarker.Dist;
 
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.ItemGroup;
-import net.minecraft.block.Blocks;
 
+import net.mcreator.proyectnew.item.Opalo1Item;
 import net.mcreator.proyectnew.ProyectNewModElements;
 
 @ProyectNewModElements.ModElement.Tag
@@ -22,14 +22,14 @@ public class ProyectitotabItemGroup extends ProyectNewModElements.ModElement {
 			@OnlyIn(Dist.CLIENT)
 			@Override
 			public ItemStack createIcon() {
-				return new ItemStack(Blocks.WATER);
+				return new ItemStack(Opalo1Item.block);
 			}
 
 			@OnlyIn(Dist.CLIENT)
 			public boolean hasSearchBar() {
-				return false;
+				return true;
 			}
-		};
+		}.setBackgroundImageName("item_search.png");
 	}
 
 	public static ItemGroup tab;

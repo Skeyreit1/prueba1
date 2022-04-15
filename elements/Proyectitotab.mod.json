@@ -4,8 +4,8 @@
   "definition": {
     "name": "Proyectitotab",
     "icon": {
-      "value": "Blocks.FLOWING_WATER"
+      "value": "CUSTOM:Opalo1"
     },
-    "showSearch": false
+    "showSearch": true
   }
 }
