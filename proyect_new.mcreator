@@ -79,6 +79,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "craftingtable"
+    },
+    {
+      "name": "Casitamoderna1",
+      "type": "structure",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "casitamoderna_1"
     }
   ],
   "variable_elements": [],
