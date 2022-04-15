@@ -55,6 +55,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "millerskinnervillager"
+    },
+    {
+      "name": "ManoloMitchellvillager",
+      "type": "livingentity",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "manolo_mitchellvillager"
     }
   ],
   "variable_elements": [],
@@ -67,6 +75,8 @@
       "advancements.inicio.descr": "felicidades,a cabas de empezar la aventura",
       "block.proyect_new.opalo": "Opalo",
       "item.proyect_new.ghy_spawn_egg": "Ghy Spawn Egg",
+      "item.proyect_new.manolo_mitchellvillager_spawn_egg": "Manolo Mitchellvillager Spawn Egg",
+      "entity.proyect_new.manolo_mitchellvillager": "Manolo Mitchellvillager",
       "entity.proyect_new.millerskinnervillager": "Millerskinnervillager",
       "itemGroup.tabproyectitotab": "Proyectitotab",
       "entity.proyect_new.ghy": "Ghy"
