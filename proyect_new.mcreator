@@ -71,6 +71,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "teddie_wallervillager"
+    },
+    {
+      "name": "Ryananthonysonvillager",
+      "type": "livingentity",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ryananthonysonvillager"
     }
   ],
   "variable_elements": [],
@@ -88,8 +96,10 @@
       "advancements.inicio.title": "Inicio",
       "item.proyect_new.ghy_spawn_egg": "Ghy Spawn Egg",
       "entity.proyect_new.manolo_mitchellvillager": "Manolo Mitchellvillager",
+      "item.proyect_new.ryananthonysonvillager_spawn_egg": "Ryananthonysonvillager Spawn Egg",
       "itemGroup.tabproyectitotab": "Proyectitotab",
-      "entity.proyect_new.ghy": "Ghy"
+      "entity.proyect_new.ghy": "Ghy",
+      "entity.proyect_new.ryananthonysonvillager": "Ryananthonysonvillager"
     }
   },
   "foldersRoot": {
