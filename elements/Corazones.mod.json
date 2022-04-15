@@ -17,12 +17,12 @@
       {
         "type": "label",
         "data": {
-          "text": "RELACION",
+          "text": "REPUTACION",
           "color": {
             "value": -16751002,
             "falpha": 0.0
           },
-          "name": "RELACION",
+          "name": "REPUTACION",
           "x": 22,
           "y": 18
         }

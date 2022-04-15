@@ -51,7 +51,7 @@ public class CorazonesOverlay {
 				Minecraft.getInstance().getTextureManager().bindTexture(new ResourceLocation("proyect_new:textures/madera.png"));
 				Minecraft.getInstance().ingameGUI.blit(event.getMatrixStack(), posX + -191, posY + -89, 0, 0, 8, 8, 8, 8);
 
-				Minecraft.getInstance().fontRenderer.drawString(event.getMatrixStack(), "RELACION", posX + -191, posY + -102, -16751002);
+				Minecraft.getInstance().fontRenderer.drawString(event.getMatrixStack(), "REPUTACION", posX + -191, posY + -102, -16751002);
 				Minecraft.getInstance().getTextureManager().bindTexture(new ResourceLocation("proyect_new:textures/madera.png"));
 				Minecraft.getInstance().ingameGUI.blit(event.getMatrixStack(), posX + -180, posY + -89, 0, 0, 8, 8, 8, 8);
 

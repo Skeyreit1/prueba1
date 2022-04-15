@@ -87,6 +87,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "casitamoderna_1"
+    },
+    {
+      "name": "Craftingtablegui",
+      "type": "gui",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftingtablegui"
     }
   ],
   "variable_elements": [],
