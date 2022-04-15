@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "proyect_new:blocks/maderita",
+    "up": "proyect_new:blocks/maderita",
+    "north": "proyect_new:blocks/maderita",
+    "east": "proyect_new:blocks/maderita",
+    "south": "proyect_new:blocks/maderita",
+    "west": "proyect_new:blocks/maderita",
+    "particle": "proyect_new:blocks/maderita"
+  }
+}

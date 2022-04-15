@@ -65,82 +65,36 @@
       "registry_name": "mes_asimple"
     },
     {
-      "name": "TeddieWallervillager",
-      "type": "livingentity",
+      "name": "Corazones",
+      "type": "overlay",
       "sortid": 11,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "teddie_wallervillager"
+      "registry_name": "corazones"
     },
     {
-      "name": "Chikakoamanovillager",
-      "type": "livingentity",
-      "sortid": 15,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chikakoamanovillager"
-    },
-    {
-      "name": "Paulenedownervillager",
-      "type": "livingentity",
-      "sortid": 14,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "paulenedownervillager"
-    },
-    {
-      "name": "Noburumizutanivillager",
-      "type": "livingentity",
-      "sortid": 13,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "noburumizutanivillager"
-    },
-    {
-      "name": "Ryananthonysonvillager",
-      "type": "livingentity",
+      "name": "Craftingtable",
+      "type": "block",
       "sortid": 12,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "ryananthonysonvillager"
-    },
-    {
-      "name": "Kaorifujiwaravillager",
-      "type": "livingentity",
-      "sortid": 16,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "kaorifujiwaravillager"
-    },
-    {
-      "name": "ManoloMitchellvillager",
-      "type": "livingentity",
-      "sortid": 10,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "manolo_mitchellvillager"
-    },
-    {
-      "name": "Yurierickavillager",
-      "type": "livingentity",
-      "sortid": 17,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "yurierickavillager"
+      "registry_name": "craftingtable"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "advancements.inicio.title": "Inicio",
+      "item.proyect_new.millerskinnervillager_spawn_egg": "Millerskinnervillager Spawn Egg",
       "item.proyect_new.opalo_1": "Opalo 1",
+      "block.proyect_new.mes_asimple": "MES Asimple",
+      "block.proyect_new.craftingtable": "Craftingtable",
       "block.proyect_new.opalo": "Opalo",
       "advancements.inicio.descr": "felicidades,a cabas de empezar la aventura",
-      "advancements.inicio.title": "Inicio",
-      "itemGroup.tabproyectitotab": "Proyectitotab",
-      "item.proyect_new.millerskinnervillager_spawn_egg": "Millerskinnervillager Spawn Egg",
-      "entity.proyect_new.millerskinnervillager": "Millerskinnervillager",
       "item.proyect_new.ghy_spawn_egg": "Ghy Spawn Egg",
+      "entity.proyect_new.millerskinnervillager": "Millerskinnervillager",
+      "itemGroup.tabproyectitotab": "Proyectitotab",
       "entity.proyect_new.ghy": "Ghy"
     }
   },
