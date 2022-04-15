@@ -63,21 +63,31 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "manolo_mitchellvillager"
+    },
+    {
+      "name": "TeddieWallervillager",
+      "type": "livingentity",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "teddie_wallervillager"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "advancements.inicio.title": "Inicio",
       "item.proyect_new.millerskinnervillager_spawn_egg": "Millerskinnervillager Spawn Egg",
+      "entity.proyect_new.teddie_wallervillager": "Teddie Wallervillager",
       "item.proyect_new.opalo_1": "Opalo 1",
       "advancements.inicio.descr": "felicidades,a cabas de empezar la aventura",
       "block.proyect_new.opalo": "Opalo",
-      "item.proyect_new.ghy_spawn_egg": "Ghy Spawn Egg",
       "item.proyect_new.manolo_mitchellvillager_spawn_egg": "Manolo Mitchellvillager Spawn Egg",
-      "entity.proyect_new.manolo_mitchellvillager": "Manolo Mitchellvillager",
       "entity.proyect_new.millerskinnervillager": "Millerskinnervillager",
+      "item.proyect_new.teddie_wallervillager_spawn_egg": "Teddie Wallervillager Spawn Egg",
+      "advancements.inicio.title": "Inicio",
+      "item.proyect_new.ghy_spawn_egg": "Ghy Spawn Egg",
+      "entity.proyect_new.manolo_mitchellvillager": "Manolo Mitchellvillager",
       "itemGroup.tabproyectitotab": "Proyectitotab",
       "entity.proyect_new.ghy": "Ghy"
     }
