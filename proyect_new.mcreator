@@ -33,14 +33,6 @@
       "registry_name": "opalo_1"
     },
     {
-      "name": "Cunabbr",
-      "type": "recipe",
-      "sortid": 5,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "cunabbr"
-    },
-    {
       "name": "Interfazaldeanos",
       "type": "gui",
       "sortid": 7,
@@ -55,6 +47,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "ghy"
+    },
+    {
+      "name": "Millerskinnervillager",
+      "type": "livingentity",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "millerskinnervillager"
     }
   ],
   "variable_elements": [],
@@ -62,10 +62,12 @@
   "language_map": {
     "en_us": {
       "advancements.inicio.title": "Inicio",
+      "item.proyect_new.millerskinnervillager_spawn_egg": "Millerskinnervillager Spawn Egg",
       "item.proyect_new.opalo_1": "Opalo 1",
       "advancements.inicio.descr": "felicidades,a cabas de empezar la aventura",
       "block.proyect_new.opalo": "Opalo",
       "item.proyect_new.ghy_spawn_egg": "Ghy Spawn Egg",
+      "entity.proyect_new.millerskinnervillager": "Millerskinnervillager",
       "itemGroup.tabproyectitotab": "Proyectitotab",
       "entity.proyect_new.ghy": "Ghy"
     }
