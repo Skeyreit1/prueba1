@@ -87,6 +87,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "noburumizutanivillager"
+    },
+    {
+      "name": "Paulenedownervillager",
+      "type": "livingentity",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "paulenedownervillager"
     }
   ],
   "variable_elements": [],
@@ -95,12 +103,14 @@
     "en_us": {
       "item.proyect_new.millerskinnervillager_spawn_egg": "Millerskinnervillager Spawn Egg",
       "entity.proyect_new.teddie_wallervillager": "Teddie Wallervillager",
+      "item.proyect_new.paulenedownervillager_spawn_egg": "Paulenedownervillager Spawn Egg",
       "item.proyect_new.opalo_1": "Opalo 1",
-      "advancements.inicio.descr": "felicidades,a cabas de empezar la aventura",
-      "block.proyect_new.opalo": "Opalo",
       "item.proyect_new.manolo_mitchellvillager_spawn_egg": "Manolo Mitchellvillager Spawn Egg",
+      "block.proyect_new.opalo": "Opalo",
+      "advancements.inicio.descr": "felicidades,a cabas de empezar la aventura",
       "entity.proyect_new.millerskinnervillager": "Millerskinnervillager",
       "item.proyect_new.teddie_wallervillager_spawn_egg": "Teddie Wallervillager Spawn Egg",
+      "entity.proyect_new.paulenedownervillager": "Paulenedownervillager",
       "advancements.inicio.title": "Inicio",
       "entity.proyect_new.noburumizutanivillager": "Noburumizutanivillager",
       "item.proyect_new.ghy_spawn_egg": "Ghy Spawn Egg",
